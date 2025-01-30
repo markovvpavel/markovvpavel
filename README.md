@@ -1,4 +1,4 @@
-# Pavel Markov, Full-Stack Developer!
+# Pavel Markov, Full-Stack Developer
 
 Welcome to my GitHub profile! Below, you'll find an overview of some of my projects, categorized based on their availability.
 
