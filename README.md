@@ -44,6 +44,23 @@ Replica of Instagram Reels UI.
 
 ---
 
+### BTC Recipes: [GitHub](https://github.com/markovvpavel/btc-recipes)
+
+![Project Screenshot](https://raw.githubusercontent.com/markovvpavel/markovvpavel/refs/heads/main/images/btc-recipes.png)
+
+**Description**:  
+TypeScript project for managing Bitcoin wallets, sending transactions, calculating fees, and tracking confirmations.
+
+**Tech Stack**: 
+- TypeScript
+- bitcoinjs-lib
+- ecpair
+- tiny-secp256k1
+- axios
+- uuid
+
+---
+
 <!-- ## 🔹 External Projects
 
 These are projects not hosted on GitHub but are worth showcasing:
