@@ -1,10 +1,10 @@
 # Pavel Markov, Full-Stack Developer
 
-Welcome to my GitHub profile! Below, you'll find an overview of some of my projects, categorized based on their availability.
+Welcome to my GitHub profile! Below, you'll find an overview of some of my projects.
 
 ---
 
-## 🔹 GitHub Projects
+## ⚡︎ GitHub Projects
 
 Here are the projects hosted directly on my GitHub:
 
