@@ -8,6 +8,48 @@ Welcome to my GitHub profile! Below, you'll find an overview of some of my proje
 
 Here are the projects hosted directly on my GitHub:
 
+### Ghostface: [GitHub](https://github.com/markovvpavel/ghostface)
+
+![Project Screenshot](https://raw.githubusercontent.com/markovvpavel/markovvpavel/refs/heads/main/images/ghostface.png)
+
+**Description**:  
+Fintech startup providing payment infrastructure for crypto-deals.
+
+**Tech Stack**:
+
+- TypeScript
+- Next.js
+- Tailwind
+- Redux
+- Framer-Motion
+- Lenis Scroll
+- Express.js
+- TypeORM
+- PostgreSQL
+- JWT
+- Docker / Compose
+- Jest
+
+---
+
+### BTC Recipes: [GitHub](https://github.com/markovvpavel/btc-recipes)
+
+![Project Screenshot](https://raw.githubusercontent.com/markovvpavel/markovvpavel/refs/heads/main/images/btc-recipes.png)
+
+**Description**:  
+TypeScript project for managing Bitcoin wallets, sending transactions, calculating fees, and tracking confirmations.
+
+**Tech Stack**:
+
+- TypeScript
+- bitcoinjs-lib
+- ecpair
+- tiny-secp256k1
+- axios
+- uuid
+
+---
+
 ### Geneva Radio: [GitHub](https://github.com/markovvpavel/geneva-radio)
 
 ![Project Screenshot](https://raw.githubusercontent.com/markovvpavel/markovvpavel/refs/heads/main/images/geneva-radio.png)
@@ -15,7 +57,8 @@ Here are the projects hosted directly on my GitHub:
 **Description**:  
 Streaming music app. Part of the [Geneva Gallery](https://geneva-gallery.netlify.app) project.
 
-**Tech Stack**:  
+**Tech Stack**:
+
 - TypeScript
 - Next.js
 - Tailwind
@@ -32,7 +75,8 @@ Streaming music app. Part of the [Geneva Gallery](https://geneva-gallery.netlify
 **Description**:  
 Replica of Instagram Reels UI.
 
-**Tech Stack**: 
+**Tech Stack**:
+
 - TypeScript
 - Next.js
 - Tailwind
@@ -40,54 +84,9 @@ Replica of Instagram Reels UI.
 - Netlify
 - BitBucket
 - Framer-Motion
-- Lenis Scroll 
+- Lenis Scroll
 
 ---
-
-### BTC Recipes: [GitHub](https://github.com/markovvpavel/btc-recipes)
-
-![Project Screenshot](https://raw.githubusercontent.com/markovvpavel/markovvpavel/refs/heads/main/images/btc-recipes.png)
-
-**Description**:  
-TypeScript project for managing Bitcoin wallets, sending transactions, calculating fees, and tracking confirmations.
-
-**Tech Stack**: 
-- TypeScript
-- bitcoinjs-lib
-- ecpair
-- tiny-secp256k1
-- axios
-- uuid
-
----
-
-<!-- ## 🔹 External Projects
-
-These are projects not hosted on GitHub but are worth showcasing:
-
-### Project 1: [Project Name](https://yourwebsite.com/project-link)
-
-![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
-
-**Description**:  
-A concise explanation of the project's goal, features, or audience.
-
-**Tech Stack**:  
-Mention the tools, frameworks, and programming languages.
-
----
-
-### Project 2: [Project Name](https://yourwebsite.com/project-link)
-
-![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
-
-**Description**:  
-Highlight the project’s significance or unique features.
-
-**Tech Stack**:  
-Add the tech stack used.
-
---- -->
 
 ## ✉️ Contact Me
 
