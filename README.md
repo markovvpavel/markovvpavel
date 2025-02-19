@@ -32,24 +32,6 @@ Fintech startup providing payment infrastructure for crypto-deals.
 
 ---
 
-### BTC Recipes: [GitHub](https://github.com/markovvpavel/btc-recipes)
-
-![Project Screenshot](https://raw.githubusercontent.com/markovvpavel/markovvpavel/refs/heads/main/images/btc-recipes.png)
-
-**Description**:  
-TypeScript project for managing Bitcoin wallets, sending transactions, calculating fees, and tracking confirmations.
-
-**Tech Stack**:
-
-- TypeScript
-- bitcoinjs-lib
-- ecpair
-- tiny-secp256k1
-- axios
-- uuid
-
----
-
 ### Geneva Radio: [GitHub](https://github.com/markovvpavel/geneva-radio)
 
 ![Project Screenshot](https://raw.githubusercontent.com/markovvpavel/markovvpavel/refs/heads/main/images/geneva-radio.png)
@@ -85,6 +67,24 @@ Replica of Instagram Reels UI.
 - BitBucket
 - Framer-Motion
 - Lenis Scroll
+
+---
+
+### BTC Recipes: [GitHub](https://github.com/markovvpavel/btc-recipes)
+
+![Project Screenshot](https://raw.githubusercontent.com/markovvpavel/markovvpavel/refs/heads/main/images/btc-recipes.png)
+
+**Description**:  
+TypeScript project for managing Bitcoin wallets, sending transactions, calculating fees, and tracking confirmations.
+
+**Tech Stack**:
+
+- TypeScript
+- bitcoinjs-lib
+- ecpair
+- tiny-secp256k1
+- axios
+- uuid
 
 ---
 
